@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science, artificial intelligence, traffic data applications
 - 🌱 I’m currently learning docker, deep learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me bruno.herman at gmail dot com
+- 📫 How to reach me bruno dot herman at gmail dot com
 
 <!---
 brunoruns/brunoruns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

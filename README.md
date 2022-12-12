@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brunoruns
 - 👀 I’m interested in data science, artificial intelligence, traffic data applications
 - 🌱 I’m currently learning docker, deep learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on applied science projects
 - 📫 How to reach me bruno dot herman at gmail dot com
 
 <!---

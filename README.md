@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @brunoruns
 - 👀 I’m interested in data science, artificial intelligence, citizen science applications
-- 🌱 I’m currently learning kubern9s, tinyML, applied NLP applications with RAG
-- 🏫 I work at AP University of Applied Sciences https://www.ap.be
+- 🌱 I’m currently learning tinyML, LLM applications
+- 🏫 I work at AP University of Applied Sciences https://www.ap.be/expert/bruno-herman
 - 📷 I enjoy photo projects https://brunohermanfoto.myportfolio.com/
 - 🏃 I run to decompress
+- 🎹 I play the piano
 - 💞️ I’m looking to collaborate on applied science projects
 - 📫 How to reach me bruno dot herman at ap dot be
 
